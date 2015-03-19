@@ -1,0 +1,16 @@
+{
+  "name": "klaviyo-forms",
+  "version": "0.0.1",
+  "description": "Write forms that directly create events / track users in klaviyo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Reggi",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "jquery-deparam": "^0.1.0",
+    "js-base64": "^2.1.7"
+  }
+}
