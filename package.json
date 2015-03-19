@@ -12,5 +12,24 @@
     "jquery": "^2.1.3",
     "jquery-deparam": "^0.1.0",
     "js-base64": "^2.1.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reggi/klaviyo-forms.git"
+  },
+  "keywords": [
+    "klaviyo",
+    "forms",
+    "form",
+    "ajax",
+    "request",
+    "data",
+    "event",
+    "track"
+  ],
+  "bugs": {
+    "url": "https://github.com/reggi/klaviyo-forms/issues"
+  },
+  "homepage": "https://github.com/reggi/klaviyo-forms"
 }
